@@ -20,11 +20,13 @@
 ## 👨🏾‍💻 Instalar  
 
 - Instale o [Visual Studio Code](https://code.visualstudio.com/)
-- Baixe o [Zip do código](https://github.com/Ronald785/Happy/archive/refs/heads/master.zip)
+- Baixe o [Zip do código](https://github.com/Ronald785/Podcastr/archive/refs/heads/main.zip)
 - Descompacte o arquivo e abra no VS Code
 - Abra o terminal do VS Code ( ctrl + " )
-- Digite: npm start
-- Acessa a porta [127.0.0.1:5500](http://127.0.0.1:5500) do navegador 
+- Para iniciar o projeto digite: yarn dev
+- Crie um segundo terminal
+- Para iniciar o servidor digite: yarn server
+- Acessa a porta [localhost:3000](http://localhost:3000) do navegador 
 - Voilà o projeto está rodando
 
 
@@ -33,23 +35,24 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [SQLite](https://www.sqlite.org/index.html)
-- [Handlebars](https://handlebarsjs.com/)
+- [ReactJs](https://pt-br.reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [Sass](https://sass-lang.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Yarn](https://yarnpkg.com/)
+
 
 ## 💻 Projeto
 
-O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz 💜
+O Podcastr é uma aplicação web interativa para ouvir podcast no próprio site. 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto no [Figma](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web).
+Você pode visualizar o layout do projeto no [Figma](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761).
 
 ## ✍🏾 Autor
 
-<img src="https://avatars.githubusercontent.com/u/65602274?v=4" width="100px;" alt=""/>
+<img src="https://avatars.githubusercontent.com/u/65602274?v=4" width="100px;" alt="Ronald Foto"/>
 
 Contate-me
 
@@ -58,4 +61,4 @@ Contate-me
 
 ---
    
-Desenvolvido no Next Level Week 3 da [Rocketseat](https://rocketseat.com.br/)🚀
+Desenvolvido no Next Level Week 5 trilha ReactJs da [Rocketseat](https://rocketseat.com.br/)🚀

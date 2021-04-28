@@ -21,9 +21,9 @@
 
 - Instale o [Visual Studio Code](https://code.visualstudio.com/)
 - Baixe o [Zip do código](https://github.com/Ronald785/Podcastr/archive/refs/heads/main.zip)
-- -Instale as dependências yarn
 - Descompacte o arquivo e abra no VS Code
 - Abra o terminal do VS Code ( ctrl + " )
+- Instale as dependências yarn
 - Para iniciar o projeto digite: yarn run dev
 - Crie um segundo terminal
 - Para iniciar o servidor digite: yarn run server
